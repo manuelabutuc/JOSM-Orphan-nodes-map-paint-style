@@ -12,7 +12,7 @@ Add a new map paint style by clicking on the marked button:
 
 ![4](https://cloud.githubusercontent.com/assets/16319427/16793944/5de2aec6-48dd-11e6-97f8-91a4c43fada7.PNG)
 
-Click on the marked button again:
+Then click on the marked button as seen below:
 
 ![5](https://cloud.githubusercontent.com/assets/16319427/16793985/9f1c8736-48dd-11e6-9a98-0b6a6fb8901b.PNG)
 
