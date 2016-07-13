@@ -1,0 +1,39 @@
+meta {
+  title: "Orphan Nodes";
+  version: "2016-12-07";
+  description: "Highlights orphan nodes";
+  author: "Manuela Butuc";
+}
+
+
+/*****************************/
+/* highlights untagged nodes */
+/*****************************/
+
+node!:tagged{
+	symbol-size:10;
+	symbol-shape: square;
+	symbol-stroke-color: white;
+	symbol-fill-color: red;
+}
+
+/*****************************************/
+/* override nodes that are part of a way */
+/*****************************************/
+
+way node{
+	symbol-size:1;
+	symbol-shape: circle;
+	symbol-fill-color: gray;
+}
+
+/************************/
+/* dim ways of any kind */
+/************************/
+
+way{
+	width: +2;
+	color: gray;
+	opacity: 0.9;
+}
+
