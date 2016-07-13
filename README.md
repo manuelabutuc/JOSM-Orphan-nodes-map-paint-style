@@ -4,7 +4,7 @@ A map paint style that highlights orphan nodes (those that have no tags and are 
 
 Adding the map paint style to JOSM: 
 
-Make the "Map paint style" window visible
+First, make the "Map paint style" window visible:
 
 ![3](https://cloud.githubusercontent.com/assets/16319427/16793856/d0015cf6-48dc-11e6-8e21-17ec4c16d265.png)
 
