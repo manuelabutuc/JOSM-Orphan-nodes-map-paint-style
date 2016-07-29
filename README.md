@@ -25,6 +25,6 @@ The map paint style should then appear in the list. Check it and uncheck any oth
 ![7](https://cloud.githubusercontent.com/assets/16319427/16794051/1506b8f4-48de-11e6-9d7a-929b71dede3f.PNG)
 
 
-TaDAAAAM! You did it. Now be careful and think twice before deleting orphan nodes (more instructions here: )
+TaDAAAAM! You did it. Now be careful and think twice before deleting orphan nodes (more instructions here: http://blog.improve-osm.org/en/how-to-deal-with-orphan-nodes-in-osm/)
 
 ![diff](https://cloud.githubusercontent.com/assets/16319427/16794193/e9a8fbf8-48de-11e6-8b5c-876b14d6fbb1.png)
